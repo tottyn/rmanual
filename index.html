@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Introducing RStudio Lab Manual</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #C1C99C; /* greenish-beige background */
+      color: #000;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1, h2 {
+      color: #003366;
+    }
+    .buttons {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .buttons a {
+      margin: 5px;
+      padding: 12px 20px;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+      display: inline-block;
+    }
+    .pdf-button { background-color: #0055a5; }
+    .data-button { background-color: #007acc; }
+    .code-button { background-color: #0099e5; }
+    .section {
+      background-color: #f0f8ff;
+      padding: 15px 20px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+    ul {
+      margin-top: 0;
+    }
+    img.cover {
+      display: block;
+      margin: 0 auto 20px auto;
+      max-width: 40%;
+      height: auto;
+      border-radius: 10px;
+    }
+    a {
+      color: #003366;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Introducing RStudio: Hands-On Learning and Career Readiness in the Social, Behavioral, and Educational Sciences</h1>
+
+    <!-- Centered cover image -->
+    <img src="./coverimage.png" alt="Image of cover of Introducing RStudio lab manual" class="cover"/>
+
+    <!-- Navigation buttons -->
+    <div class="buttons">
+      <a href="./manual.pdf" class="pdf-button">Lab Manual PDF</a>
+      <a href="./gssdat.csv" class="data-button">GSS Data Subset</a>
+      <a href="./manual.R" class="code-button">R Code</a>
+    </div>
+
+    <!-- About section -->
+    <div class="section">
+      <h2>About The Manual</h2>
+      <p>This site hosts <strong>Introducing RStudio:</strong> <em>Hands-On Learning and Career Readiness in the Social, Behavioral, and Educational Sciences</em>. This manual is designed to introduce students in the social, behavioral, and educational sciences to RStudio and its basic uses with <strong>applications</strong> to relevant data. Benefits of this lab manual include:</p>
+      <ul>
+        <li>Guided RStudio lab activities.</li>
+        <li>Instructor-led and independent practice.</li>
+        <li>Real-world dataset (the General Social Survey) relevant to the social, behavioral, and educational sciences.</li>
+        <li>Career readiness reflections connecting statistical skills to workforce competencies.</li>
+      </ul>
+    </div>
+
+    <!-- How to Use section -->
+    <div class="section">
+      <h2>How to Use This Website</h2>
+      <p>On this website you can download:</p>
+      <ul>
+        <li>The lab manual as a PDF.</li>
+        <li>A subset of the GSS data in CSV format. This is the dataset used in the labs.</li>
+        <li>An R script that contains all the R code used in the manual.</li>
+      </ul>
+      <p><strong>Note that these files contain solutions which students may use to check their work.</strong> Instructors may choose to remove these pages from the PDF and code from the R script before sharing with students. Alternatively, instructors can adapt the practice problems for use as a graded practice assessment.</p>
+    </div>
+
+    <!-- Code of Conduct section -->
+    <div class="section">
+      <h2>Code of Conduct</h2>
+      <p>All files on this repo are released under the following <a href="code_of_conduct.md">Code of Conduct</a>. Please submit an issue for any questions and concerns. I do not own the GSS dataset hosted here. It is a subset obtained from the Data Explorer linked in the manual.</p>
+    </div>
+
+  </div>
+</body>
+</html>
