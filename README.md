@@ -35,23 +35,8 @@ This site hosts **Introducing RStudio:** *Hands-On Learning and Career Readiness
 <div style="background-color: #e6f2ff; padding: 15px; border-radius: 8px;">
 </div>
 
-On this website you can download the manual, a smaller GSS dataset used in the labs and a .R file containing all the R code used in the manual. If you would like a copy of the **solutions** to the lab exercises, please <a href="mailto:email@school.edu">contact</a> the author of the lab manual.
+On this website you can download the manual, a smaller GSS dataset used in the labs and a .R file containing all the R code used in the manual. If you would like a copy of the **solutions** to the lab exercises, please <a href="mailto:ntotty@framingham.edu">contact</a> the author of the lab manual.
 
-
-## Accessibility Features
-
-<div style="background-color: #e6f2ff; padding: 15px; border-radius: 8px;">
-</div>
-
-- Links have descriptive text for screen readers.  
-
-- Headings follow a clear hierarchy.  
-
-- High-contrast buttons and colored sections improve readability.  
-
-- No emojis or icons are used to convey essential meaning.  
-
-- The PDF should be exported with accessibility in mind.
 
 
 ## License & Attribution
@@ -59,6 +44,4 @@ On this website you can download the manual, a smaller GSS dataset used in the l
 <div style="background-color: #f0f8ff; padding: 15px; border-radius: 8px;">
 </div>
 
-All of the content in this repository and its corresponding website, except the GSS dataset, is authored by **Njesa Totty**. I do not own the GSS dataset. You may use and adapt these materials for academic purposes. Please credit the original author if sharing or modifying the content. 
-
-All files on this repo are released under the following [Code of Conduct](code_of_conduct.md). Please submit an issue for any questions and concerns.
+All files on this repo are released under the following [Code of Conduct](code_of_conduct.md). Please submit an issue for any questions and concerns. I do not own the GSS dataset hosted here. It is a subset obtained from the Data Explorer linked in the manual. 
