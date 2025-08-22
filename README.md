@@ -9,9 +9,9 @@
 
 <!-- Navigation buttons -->
 <div style="margin-bottom: 20px; text-align:center;">
-  <a href="./rmanual.pdf" style="margin: 5px; padding: 12px 20px; background-color: #0055a5; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">Download Lab Manual PDF</a>
+  <a href="./manual.pdf" style="margin: 5px; padding: 12px 20px; background-color: #0055a5; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">Download Lab Manual PDF</a>
   <a href="./gssdat.csv" style="margin: 5px; padding: 12px 20px; background-color: #007acc; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">Download Dataset CSV</a>
-  <a href="./rmanual.R" style="margin: 5px; padding: 12px 20px; background-color: #0099e5; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">Download R Script</a>
+  <a href="./manual.R" style="margin: 5px; padding: 12px 20px; background-color: #0099e5; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">Download R Script</a>
 </div>
 
 ---
@@ -46,7 +46,7 @@ The manual includes:
 
 <div style="background-color: #f0f8ff; padding: 15px; border-radius: 8px;">
 If you would like a copy of the **solutions** to the lab exercises, please contact:  
-<strong>Email:</strong> <a href="mailto:email@school.edu">email@school.edu</a>
+<strong>Email:</strong> <a href="mailto:ntotty@framingham.edu">ntotty@framingham.edu</a>
 </div>
 
 ---
