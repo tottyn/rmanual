@@ -2,7 +2,7 @@
 
 <!-- Banner Image (optional: replace with your own image link) -->
 <p align="center">
-  <img src="" alt="Image of cover of Introducing RStudio lab manual" style="max-width:100%; height:auto; border-radius:10px;"/>
+  <img src="./coverimage.png" alt="Image of cover of Introducing RStudio lab manual" style="max-width:100%; height:auto; border-radius:10px;"/>
 </p>
 
 ---
