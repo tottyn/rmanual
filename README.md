@@ -43,3 +43,6 @@ On this website you can download:
 ## Code of Conduct
 
 All files on this repo are released under the following [Code of Conduct](code_of_conduct.md). Please submit an issue for any questions and concerns. I do not own the GSS dataset hosted here. It is a subset obtained from the Data Explorer linked in the manual. 
+
+## Licensing
+Introducing RStudio: Hands-On Learning and Career Readiness in the Social, Behavioral, and Educational Sciences © 2025 by Njesa Totty is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.
