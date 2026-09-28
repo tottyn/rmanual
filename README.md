@@ -36,8 +36,6 @@ On this website you can download:
 
 - An R script that contains all the R code used in the manual.
 
-**Note that these files contain solutions which students may use to check their work.** Instructors may choose to remove these pages from the PDF and code from the R script before sharing with students. Alternatively, instructors can adapt the practice problems for use as a graded practice assessment.
-
 
 
 ## Code of Conduct
