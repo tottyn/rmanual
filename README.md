@@ -10,6 +10,7 @@
   <a href="./manual.pdf" style="margin: 5px; padding: 12px 20px; background-color: #0055a5; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">Lab Manual PDF</a>
   <a href="./gssdat.csv" style="margin: 5px; padding: 12px 20px; background-color: #007acc; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">GSS Data Subset</a>
   <a href="./manual.R" style="margin: 5px; padding: 12px 20px; background-color: #0099e5; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">R Code</a>
+  <a href="./manualTAGGEDALT.pdf" style="margin: 5px; padding: 12px 20px; background-color: #0055a5; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">Accessible Lab Manual PDF</a>
 </div>
 
 
