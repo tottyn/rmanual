@@ -8,10 +8,10 @@
 <!-- Navigation buttons -->
 <div style="margin-bottom: 20px; text-align:center;">
   <a href="./manual.pdf" style="margin: 5px; padding: 12px 20px; background-color: #0055a5; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">Lab Manual PDF</a>
-  <a href="./gssdat.csv" style="margin: 5px; padding: 12px 20px; background-color: #007acc; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">GSS Data Subset</a>
-  <a href="./manual.R" style="margin: 5px; padding: 12px 20px; background-color: #0099e5; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">R Code</a>
+  <a href="./gssdat.csv" style="margin: 5px; padding: 12px 20px; background-color: #0055a5; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">GSS Data Subset</a>
+  <a href="./manual.R" style="margin: 5px; padding: 12px 20px; background-color: #0055a5; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">R Code</a>
   <a href="./manualTAGGEDALT.pdf" style="margin: 5px; padding: 12px 20px; background-color: #0055a5; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">Accessible Lab Manual PDF</a>
-  <a href="https://ca-rotel-repository.replit.app/app/r-lab/demo" style="margin: 5px; padding: 12px 20px; background-color: #007acc; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">Interactive Web-Based Manual</a>
+  <a href="https://ca-rotel-repository.replit.app/app/r-lab/demo" style="margin: 5px; padding: 12px 20px; background-color: #0055a5; color: white; text-decoration: none; border-radius: 6px; font-weight:bold;">Interactive Web-Based Manual</a>
 </div>
 
 
@@ -27,6 +27,8 @@ This site hosts **Introducing RStudio:** *Hands-On Learning and Career Readiness
   
 - Career readiness reflections connecting statistical skills to workforce competencies.
 
+- AI prompts for studying and learning 
+
 
 ## How to Use This Website
 
@@ -37,6 +39,10 @@ On this website you can download:
 - A subset of the GSS data in CSV format. This is the dataset used in the labs.
 
 - An R script that contains all the R code used in the manual.
+  
+- An accessible PDF with tags and alt text
+
+A link to an interactive web-based version of the manual is also included
 
 
 
