@@ -19,30 +19,30 @@
 
 This site hosts **Introducing RStudio:** *Hands-On Learning and Career Readiness in the Social, Behavioral, and Educational Sciences*. This manual is designed to introduce students in the social, behavioral, and educational sciences to RStudio and its basic uses with **applications** to relevant data. Benefits of this lab manual include:
 
-- Guided RStudio lab activities.
+- Guided RStudio lab activities
   
-- Instructor-led and independent practice.
+- Instructor-led and independent practice
   
-- Real-world dataset (the General Social Survey) relevant to the social, behavioral, and educational sciences.
+- Real-world dataset (the General Social Survey) relevant to the social, behavioral, and educational sciences
   
-- Career readiness reflections connecting statistical skills to workforce competencies.
+- Career readiness reflections connecting statistical skills to workforce competencies
 
-- AI prompts for studying and learning 
+- AI prompts for studying and learning
 
 
 ## How to Use This Website
 
 On this website you can download:
 
-- The lab manual as a PDF.
+- The lab manual as a PDF
 
-- A subset of the GSS data in CSV format. This is the dataset used in the labs.
+- A subset of the GSS data in CSV format. This is the dataset used in the labs
 
-- An R script that contains all the R code used in the manual.
+- An R script that contains all the R code used in the manual
   
 - An accessible PDF with tags and alt text
 
-A link to an interactive web-based version of the manual is also included
+A link to an interactive web-based version of the manual is also included.
 
 
 
