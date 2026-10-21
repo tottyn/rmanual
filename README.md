@@ -36,7 +36,7 @@ On this website you can download:
 
 - The lab manual as a PDF
 
-- A subset of the GSS data in CSV format. This is the dataset used in the labs
+- A semi-cleaned subset of the GSS dataset used in the lab manual in CSV format
 
 - An R script that contains all the R code used in the manual
   
